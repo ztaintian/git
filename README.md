@@ -1,7 +1,7 @@
-1、博客搭建文档
+1、hexo博客搭建
 
 https://hexo.io/zh-cn/docs/
   
-2、文档搭建文档
+2、vuepress文档搭建
 
 https://vuepress.vuejs.org/zh/guide/
